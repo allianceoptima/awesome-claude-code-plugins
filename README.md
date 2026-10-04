@@ -209,6 +209,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [mobile-ux-optimizer](./plugins/mobile-ux-optimizer)
 - [nano-banana](https://github.com/Ibrahim-3d/nano-banana-claude-plugin) - Google Gemini image generation plugin. Text-to-image, text-guided image editing, style transfer, 4K output, search grounding, and multi-reference composition via `/genimage`. Uses `gemini-2.5-flash-image` (fast) and `gemini-3-pro-image-preview` (4K/search).
 - [onomastophes](./plugins/onomastophes)
+- [theme-studio](https://github.com/allianceoptima/claude-theme-studio) - Recolors Claude Code's chat from 441 contrast-checked palettes or your own hex colors: prompts, replies, tool rows, the spinner, the footer and plugin panes. Install via `/plugin marketplace add allianceoptima/claude-theme-studio`
 - [ui-designer](./plugins/ui-designer)
 - [ux](https://github.com/Laith0003/ux-skill)
 - [ux-researcher](./plugins/ux-researcher)
